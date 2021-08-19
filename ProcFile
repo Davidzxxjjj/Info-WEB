@@ -1,0 +1,1 @@
+web: gunicorn DevInfo.wsg1 --log.file -
