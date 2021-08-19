@@ -1,1 +1,1 @@
-web: gunicorn DevInfo.wsgi --log.file -
+web: gunicorn DevInfo.wsgi --log-file -
